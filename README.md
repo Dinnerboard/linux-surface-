@@ -2,6 +2,7 @@
 參考：https://github.com/linux-surface/
 本教程旨在完成原文的中文本地化翻譯及相關補充
 基於Ubuntu系統，其他請自行參考原文檔，無太大差異
+請到code界面獲取相關命令
 
 
 1.安裝linux-surface核心
